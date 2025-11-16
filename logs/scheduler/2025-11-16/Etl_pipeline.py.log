@@ -1,0 +1,63 @@
+[2025-11-16T00:04:30.182+0000] {processor.py:186} INFO - Started process (PID=3780) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T00:04:30.184+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T00:04:30.188+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:30.187+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T00:08:12.708+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T00:04:29.957+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:29.957+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T00:04:30.035+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:30.034+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T00:04:30.150+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.410 seconds
+[2025-11-16T07:28:33.073+0000] {processor.py:186} INFO - Started process (PID=104) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T07:28:33.089+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T07:28:33.096+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:33.096+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T07:28:33.240+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T07:28:33.312+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:33.312+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T07:28:33.427+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:33.427+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T07:28:33.490+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.442 seconds
+[2025-11-16T10:05:41.665+0000] {processor.py:186} INFO - Started process (PID=184) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:05:41.677+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:05:41.683+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:41.681+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:05:41.931+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:05:42.084+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:42.083+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:05:42.254+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:42.253+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:05:42.383+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.741 seconds
+[2025-11-16T10:06:12.811+0000] {processor.py:186} INFO - Started process (PID=252) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:06:12.815+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:06:12.823+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:12.820+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:06:12.450+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:06:12.547+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:12.546+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:06:12.633+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:12.633+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:06:12.698+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.407 seconds
+[2025-11-16T10:12:09.287+0000] {processor.py:186} INFO - Started process (PID=90) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:12:09.290+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:12:09.297+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:12:09.296+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:08:12.639+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:08:12.716+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:12.715+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:08:12.789+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:12.788+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:08:12.842+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.283 seconds
+[2025-11-16T10:08:45.253+0000] {processor.py:186} INFO - Started process (PID=158) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:08:45.258+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:08:45.275+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:45.273+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:08:45.419+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:08:45.573+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:45.572+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:08:45.740+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:45.740+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:08:45.863+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.638 seconds
+[2025-11-16T10:09:18.510+0000] {processor.py:186} INFO - Started process (PID=225) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:18.518+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:09:18.526+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:18.524+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:18.574+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:18.660+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:18.659+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:09:18.786+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:18.784+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:09:18.871+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.383 seconds
+[2025-11-16T10:09:50.016+0000] {processor.py:186} INFO - Started process (PID=285) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:50.019+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:09:50.025+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:50.024+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:50.069+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:09:50.119+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:50.118+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:09:50.184+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:50.183+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:09:50.236+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.234 seconds
+[2025-11-16T10:10:20.409+0000] {processor.py:186} INFO - Started process (PID=349) to work on /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:10:20.421+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pipeline.py for tasks to queue
+[2025-11-16T10:10:20.427+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.427+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:10:20.611+0000] {processor.py:925} INFO - DAG(s) 'etl_twitter_pipeline' retrieved from /opt/airflow/dags/Etl_pipeline.py
+[2025-11-16T10:10:20.650+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.649+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:10:20.697+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.696+0000] {dag.py:4180} INFO - Setting next_dagrun for etl_twitter_pipeline to 2023-02-05 00:00:00+00:00, run_after=2023-02-05 00:02:00+00:00
+[2025-11-16T10:10:20.730+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pipeline.py took 0.336 seconds

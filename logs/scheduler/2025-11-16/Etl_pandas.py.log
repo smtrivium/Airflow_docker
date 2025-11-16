@@ -1,0 +1,63 @@
+[2025-11-16T00:04:28.304+0000] {processor.py:186} INFO - Started process (PID=3777) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T00:04:28.308+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T00:04:28.320+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:28.310+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T00:04:28.468+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T00:04:28.642+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:28.641+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T00:04:28.808+0000] {logging_mixin.py:190} INFO - [2025-11-16T00:04:28.807+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T00:04:28.957+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.681 seconds
+[2025-11-16T07:28:31.585+0000] {processor.py:186} INFO - Started process (PID=94) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T07:28:31.596+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T07:28:31.604+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:31.603+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T07:28:31.723+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T07:28:31.821+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:31.819+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T07:28:31.903+0000] {logging_mixin.py:190} INFO - [2025-11-16T07:28:31.903+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T07:28:31.957+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.387 seconds
+[2025-11-16T10:05:37.006+0000] {processor.py:186} INFO - Started process (PID=181) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:05:37.035+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:05:37.049+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:37.048+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:05:37.538+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:05:37.697+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:37.696+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:05:37.960+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:05:37.959+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:05:38.376+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 1.809 seconds
+[2025-11-16T10:06:09.008+0000] {processor.py:186} INFO - Started process (PID=249) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:06:09.012+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:06:09.020+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:09.019+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:06:09.092+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:06:09.160+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:09.159+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:06:09.247+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:06:09.247+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:06:09.317+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.329 seconds
+[2025-11-16T10:08:12.099+0000] {processor.py:186} INFO - Started process (PID=72) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:12.101+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:08:12.106+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:12.105+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:12.144+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:12.201+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:12.200+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:08:12.259+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:12.258+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:08:12.373+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.287 seconds
+[2025-11-16T10:08:42.875+0000] {processor.py:186} INFO - Started process (PID=155) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:42.878+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:08:42.886+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:42.885+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:43.130+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:08:43.298+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:43.296+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:08:43.473+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:08:43.472+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:08:43.663+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.828 seconds
+[2025-11-16T10:09:17.933+0000] {processor.py:186} INFO - Started process (PID=223) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:17.936+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:09:17.945+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:17.944+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:18.008+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:18.085+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:18.084+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:09:18.177+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:18.177+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:13:14.514+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.367 seconds
+[2025-11-16T10:09:49.698+0000] {processor.py:186} INFO - Started process (PID=283) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:49.700+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:09:49.706+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:49.706+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:49.751+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:09:49.792+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:49.791+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:09:49.845+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:09:49.845+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:09:49.896+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.211 seconds
+[2025-11-16T10:10:20.082+0000] {processor.py:186} INFO - Started process (PID=347) to work on /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:10:20.084+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/Etl_pandas.py for tasks to queue
+[2025-11-16T10:10:20.090+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.089+0000] {dagbag.py:588} INFO - Filling up the DagBag from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:10:20.126+0000] {processor.py:925} INFO - DAG(s) 'excel_to_csv_detailed' retrieved from /opt/airflow/dags/Etl_pandas.py
+[2025-11-16T10:10:20.163+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.162+0000] {dag.py:3239} INFO - Sync 1 DAGs
+[2025-11-16T10:10:20.221+0000] {logging_mixin.py:190} INFO - [2025-11-16T10:10:20.220+0000] {dag.py:4180} INFO - Setting next_dagrun for excel_to_csv_detailed to 2025-11-16 00:00:00+00:00, run_after=2025-11-17 00:00:00+00:00
+[2025-11-16T10:10:20.277+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/Etl_pandas.py took 0.206 seconds
