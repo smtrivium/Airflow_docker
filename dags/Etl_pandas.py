@@ -159,7 +159,7 @@ def excel_to_csv_proper():
         print(f"✓ Обработано колонок: {len(df_clean.columns)}")
         print(f"✓ Удалено пустых строк: {removed_rows}")
         print(f"✓ Удалено пустых колонок: {removed_columns}")
-        print(f"✓ Переименовано колонок: {renamed_count}")
+      
         
     except Exception as e:
         print("\n" + "=" * 50)
